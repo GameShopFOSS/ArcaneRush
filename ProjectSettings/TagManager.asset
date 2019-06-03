@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Level
+  - Left_Item
+  - Left_Layer
+  - Mid_Layer
+  - Mid_Item
+  - Right_Layer
+  - Right_Item
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character_Back
+    uniqueID: 2374689137
+    locked: 0
+  - name: Character_Right
+    uniqueID: 3619031439
+    locked: 0
+  - name: Character_Body
+    uniqueID: 2096496199
+    locked: 0
+  - name: Character_Face
+    uniqueID: 44690409
+    locked: 0
+  - name: Character_Left
+    uniqueID: 3739325909
+    locked: 0
+  - name: UI
+    uniqueID: 408460863
+    locked: 0
