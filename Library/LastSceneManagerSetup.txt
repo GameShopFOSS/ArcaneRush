@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_Scenes/SampleLevel.unity
+- path: Assets/_Scenes/Bloon_Valley/VersusLevel/PartialAspects/GroundAspects.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
